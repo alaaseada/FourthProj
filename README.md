@@ -1,4 +1,3 @@
-<include a CircleCI status badge, here>
 [![CircleCI](https://circleci.com/gh/alaaseada/FourthProj.svg?style=svg)](https://circleci.com/gh/alaaseada/FourthProj)
 
 ## Project Overview
